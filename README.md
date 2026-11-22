@@ -2,7 +2,7 @@
 
 **Selective Quadruped Probing of Uncertain Routes for Biped Shortcut Selection**  
 이족로봇의 지름길 선택을 위한 사족로봇의 선택적 접촉 탐색 기법  
-Dabin Kim · Andrew Jaeyong Choi, Gachon University
+
 
 Go2가 판자를 처음 눌렀을 때 G1이 건널 수 있을지 불확실하면, 지금 우회하는 편이 나을까, 조금 더 눌러보는 편이 나을까? SPUR는 G1의 주행 결과로 이 선택을 학습한다. 추가 접촉으로 위험한 판을 걸러내거나 포기했던 지름길을 되찾을 가능성을 경로 비용으로 환산해, Go2가 멈출지, 하중을 뺄지, 더 유지할지 고른다. G1은 탐색이 끝난 판 상태에서 선택한 경로를 걷는다.
 
